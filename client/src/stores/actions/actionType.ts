@@ -1,0 +1,6 @@
+export const FETCH_ITEMS: string = "fetch/items"
+export const FETCH_ITEM: string = "fetch/item"
+export const FETCH_PAGE: string = "fetch/page"
+export const FETCH_STATUS: string = "fetch/success"
+export const FETCH_ERROR: string = "fetch/error"
+export const LOGIN_STATUS: string = "login/user"
